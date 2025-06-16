@@ -1,0 +1,42 @@
+#p1
+{
+   background-color: antiquewhite; 
+   height: 1000px;
+   width: auto;
+}
+.p2
+{
+    background-image:url(bird.jpg) ;
+    height: 400px;
+    width: 400px;
+    background-repeat: no-repeat;
+    margin: 50px;
+    float: left;
+}
+#p3
+{
+ background-image:url(ab.jfif) ;
+    height: 400px;
+    width: 600px;
+    background-repeat: no-repeat;
+    margin: 50px;
+    float: right;
+}
+#p4
+{
+    background-image:url(Nagpur.jfif) ;
+    height: 400px;
+    width: 400px;
+    background-repeat: no-repeat;
+    margin: 50px;
+    float: left;
+}
+#p5
+{
+    background-image:url(Ratnagiri.html) ;
+    height: 400px;
+    width: 400px;
+    background-repeat: no-repeat;
+    margin: 50px;
+    float: right;
+}
